@@ -1,6 +1,6 @@
 # AutoTestPhoneZ
 1. Tên báo cáo: Báo cáo kiểm thử tự động cho trang web PhoneZ
-2. Giới thiệu:
+2. Giới thiệu: Test tự động các tính năng chính giành cho người dùng và admin của trang web PhoneZ
 3. Cấu hình môi trường
    - Trình duyệt: google chrome
    - Hệ điều hành: windows 11
